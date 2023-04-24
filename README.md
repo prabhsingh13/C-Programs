@@ -1,4 +1,4 @@
-# C-Programs
+# C Programming
 <p>C is a general-purpose, procedural programming language that was originally developed in the early 1970s by Dennis Ritchie at Bell Labs. It has since become one of the most widely used programming languages in the world and is commonly used for developing system software, such as operating systems, as well as application software, such as databases and games.</p>
 
 <p>C is known for its efficiency, simplicity, and ability to manipulate memory at a low level. It is compiled into machine code, making it faster and more efficient than interpreted languages. C also allows for direct access to computer memory, which can be useful for low-level system programming.</p>
